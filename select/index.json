@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "花に嵐",
-  "base_artist": "Kenshi Yonezu",
-  "createdAt": "2025-12-01T11:53:57.953666Z",
+  "base_artist": "米津玄師",
+  "createdAt": "2025-12-17T08:04:13.904311Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -59,38 +59,6 @@
       "artist": "米津玄師",
       "has_synced": false,
       "path": "select/pl_01_花に嵐_米津玄師.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "花に嵐",
-      "artist": "米津玄師",
-      "has_synced": false,
-      "path": "select/pl_02_花に嵐_米津玄師.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "花に嵐",
-      "artist": "米津玄師",
-      "has_synced": false,
-      "path": "select/pl_03_花に嵐_米津玄師.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "花に嵐",
-      "artist": "米津玄師",
-      "has_synced": false,
-      "path": "select/pl_04_花に嵐_米津玄師.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "花に嵐",
-      "artist": "米津玄師",
-      "has_synced": false,
-      "path": "select/pl_05_花に嵐_米津玄師.txt"
     }
   ]
 }
